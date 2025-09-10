@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+html {
+  overflow-y: scroll;
+}
+
+div {
+    color: #cccccc;
+}
+
+.sideBar {
+    background-color: #252526;
+}
+
+.sideBarHeader {
+    background-color: #2d2d2d;
+}
+
+.activityBar {
+    background-color: #333333;
+}
+
+.tooltip {
+    background-color: #202020;
+}
+
+.tooltip-border {
+    border-color: #3c3c3c;
+}
+
+.editorBg {
+    background-color: #1e1e1e;
+}
+
+.editorPane {
+    background-color: #1e1e1e;
+}
+
+.tabBg {
+    background-color: #2d2d2d;
+}
+
+.tabActive {
+    background-color: #1e1e1e;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #3c3c3c;
+}
+
+.border-top {
+    border-top: 1px solid #3c3c3c;
+}
+
+.border-right {
+    border-right: 1px solid #3c3c3c;
+}
+
+.statusBar {
+    background-color: #007acc;
+}
+
+.statusBar-black {
+    background-color: #005f9e;
+}
+
+.textMuted {
+    background-color: #9b9b9b;
+}
+
+.treeHover {
+    background-color: #2a2d2e;
+}
+
+.treeActive {
+    background-color: #37373d;
+}
